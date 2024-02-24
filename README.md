@@ -1,2 +1,2 @@
 # GIMM290Assigments
-Used in class frommthe book
+Used in class from the book
